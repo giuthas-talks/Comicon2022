@@ -14,7 +14,7 @@ and [2023 (slides in Finnish)](https://github.com/giuthas-talks/Ropecon2023):
   speech science -- especially articulation, because this is me -- and needs of the story.
 
 See also 
-[Landacknowledgement](https://github.com/giuthas-talks/Comicon2022/blob/main/Borrowing/IU%20LAS%20Native%20Language.pdf) 
+[Land acknowledgement](https://github.com/giuthas-talks/Comicon2022/blob/main/Borrowing/IU%20LAS%20Native%20Language.pdf) 
 for Indiana University where I worked at the time of preparing the presentations. These are relevant also for 
 where the Comicon took place (Indianapolis).
 
